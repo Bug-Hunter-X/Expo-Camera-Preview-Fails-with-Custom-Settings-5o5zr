@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with custom camera settings.  Sometimes, the camera preview fails to render correctly, displaying a blank screen or a distorted image. This issue is intermittent and not consistently reproducible, making debugging challenging. It is linked to specific combinations of camera settings like flash mode, focus mode, and aspect ratio.
